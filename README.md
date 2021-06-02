@@ -12,7 +12,7 @@ Exercise on implementing linters configuration file and gitignore while document
 
 ## Live Demo
 
-[Live Demo Link](https://link)
+[Live Demo Link](https://a_link)
 
 ## Getting Started
 
