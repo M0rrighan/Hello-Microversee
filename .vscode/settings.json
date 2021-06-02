@@ -1,0 +1,4 @@
+{
+    "stylelint.config": {},
+    "stylelint.configFile": ".github/workflow/linters.yml"
+}
