@@ -4,8 +4,6 @@
 
 > Linters, gitignore, Gitflow
 
-![screenshot](./app_screenshot.png)
-
 Exercise on implementing linters configuration file and gitignore while documenting properly and following the Gitflow.
 
 ## Built With
